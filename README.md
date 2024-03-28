@@ -8,8 +8,8 @@ enantiospecificity. Two models were built for this purpose: the first utilizes G
 enantiospecificity, while the second employs an expansion using chiral cubic harmonic functions as a basis set to approximate enantiospecific behavior.
 
 ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
+[Headers](#file)  
+[Emphasis](#description)  
 ...snip...    
 <a name="headers"/>
 ## Headers
